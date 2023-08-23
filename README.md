@@ -1,2 +1,3 @@
 # My-Python
-This is My daily Practice of PYthon from HAcker-Rank
+These are my Practice of PYthon from Project- Euler
+
