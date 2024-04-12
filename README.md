@@ -1,3 +1,4 @@
 # My-Python
-These are my Practice of PYthon from Project- Euler
+It Contains Some Good DSA Practice Questions and Solutions
+
 
